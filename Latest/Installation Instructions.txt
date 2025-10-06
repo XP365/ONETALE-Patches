@@ -1,0 +1,9 @@
+IMPORTANT: BACK UP ANY IMPORTANT FILES IN THE UNDERTALE FOLDER!
+
+"How do I install this?"
+
+Firstly, you want to make sure you have a Steam copy of UNDERTALE. After that, open "Deltapatcher." In the "Original File" tab, you want to navigate to your UNDERTALE install. The easiest way to get there is by clicking on the settings icon when selecting UNDERTALE on Steam, going to "Manage," then "Browse local files." Here, you will select the "data.win" file. In the "XDelta patch" part, find and select the provided XDelta file that is in this mod folder named "UNDERTALE 1.08 to ONETALE 3.0".
+
+(Note: If upgrading from a previous version of ONETALE, use the "ONETALE 3.0 to ONETALE 3.0.1" XDelta.)
+
+then click apply patch. Make sure you are using the latest version of UNDERTALE to patch onto. If everything went well, it should be successful, and you now have ONETALE installed. Next, drag all of the mod files (EVERYTHING. Including folders, music, etc...) into the UNDERTALE folder. Be sure to back up your files in case anything went wrong. If everything went smoothly, you should now have ONETALE installed. Enjoy.

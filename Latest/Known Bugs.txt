@@ -1,0 +1,5 @@
+Currently, you cannot rebind controls in the options menu. This will be fixed at some point.
+
+Using a controller does not let you use the Input Latency Fix.
+
+In some areas, Niko cannot sprint. This is intentional, but it looks like theyre making a rock slide effect video because they don't move if you try to sprint.

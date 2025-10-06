@@ -1,0 +1,61 @@
+FAQ:
+
+"It keeps saying Invalid Input when I try patching it!"
+
+You are either trying to patch the wrong file, or are trying to patch your ONETALE V2 data.win onto the V3 xdelta patch. The xdelta file must have the Steam 1.08 Version of UNDERTALE in order for the patch to go through. The easiest way to get it is to uninstall then reinstall your Steam version.
+
+
+"When I start the game, it says File is not opened for reading at gml_Script_scr_84_load_map_json!"
+
+You did not drag all of the required files into the game like you were supposed to. This specific error is because the "lang" folder was not present in the UNDERTALE folder. Simply drag all the files in this mod folder into your install.
+
+
+"The game hangs when I start it!"
+
+Be patient. It'll load.
+
+
+"The game won't start on Steam!"
+
+Don't use Steam. use the "ONETALE.exe" file provided.
+
+
+"Will you make a port for Android or any other console?"
+
+No. Especially Android due to the legal issues that would bring.
+
+
+"I found a bug!!!"
+
+Great! Submit it to: https://docs.google.com/forms/d/e/1FAIpQLSesGNXGcCmj_JCg_LjxOIqqhQOAu2cSgECwmrEcC8Ul_fGHkg/viewform?usp=sharing 
+and we'll take a look. Be sure to be descriptive!
+
+
+"Will you add [Blank]?"
+
+Maybe. Maybe not. It depends on what is feasible.
+
+
+"Can I make a fan translation?"
+
+Absolutely! Go for it. Just be sure to mention it is a FANMADE translation.
+
+
+"Can I help work on the mod?"
+
+Submit an application at https://forms.gle/31XN2evBnyWgL97y5 and we'll see. If you hear no response back, then it's most likely a no. No hard feelings, obviously!
+
+
+"Can I use assets from this for a project?" 
+
+It depends! You may not use any asset for NSFW,NFTS, or anything hateful, and you may not pass them off as your own. Just don't be stupid. If it's just for a meme, an edit, or a small project, go for it. Be sure to credit us though! (Note: You may not use ANY assets or music for a paid product.)
+
+
+"What's the story here?"
+
+ONETALE is essentially a "What if?" Scenario. What if Mt. Ebott was in Niko's world, just outside their village? What if, a year or so after the events of Solstice, they traveled up there to prove rumors the kids were talking about?
+
+
+"Why are there 3 figures in the intro, but only HUMANS and MONSTERS mentioned?"
+
+Niko's species are lumped in with regular humans for the sake of simplicity. During the human-monster war, Niko's species proved vital in the human's victory, so despite their appearance and similarity to some monsters, they were allowed to live freely.
