@@ -1,0 +1,13 @@
+How to add your own custom talk sprites:
+
+1 - Add a folder to Custom Talk Sprites (the folder this text file is in), and name it however you want (Your username, for example.)
+2 - In "spritelist.txt", copy the name of the folder you created.
+For example, if you named the folder "Jim", the text file should look like this:
+
+Jester
+Jim
+
+3 - Drop your sprites into the folder you created as horizontal strips. Look at the Jester folder to see how each sprite strip should be named. All of them should also be in the .png format.
+Note: If a sprite is missing from the folder, that specific sprite will use the default Vii art, but the rest of them should load in no problem.
+
+4 - You should now be able to select your sprites through the Settings menu!

@@ -1,0 +1,1 @@
+These are just some alternate themes that I thought I'd throw in here as a bonus in case anyone wants a change of pace. To use them, just drag the files from their folders and into your Undertale folder. Simple enough.

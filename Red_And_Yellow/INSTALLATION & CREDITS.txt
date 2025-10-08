@@ -1,0 +1,71 @@
+How to download:
+- Have a Steam copy of Undertale
+- Use the Deltapatcher program provided to patch the "data.win" file in your Undertale folder. If this is your first time downloading the mod, use the "Undertalev1.08 to UTRYv2.1.0" patch. If you have a previous version of UTRY installed, use "UTRYv2.0.2 to UTRYv2.1.0"
+- When you open "DeltaPatcher.exe" you'll see two slots: "Original file" and "XDelta patch". On "Original file", you should select the data.win file from your Undertale folder. On "XDelta patch", you should select the .xdelta file that is included in the mod's zip folder. Then, you simply click "Apply patch".
+- Copy ALL files within the .zip file to the Undertale folder (Steam\steamapps\common\Undertale). Choose to replace files if asked.
+- Delete steam_api.dll
+If you find any bugs/glitches, please let me know.
+- Have fun!
+
+
+
+CREDITS:
+Undertale by Toby Fox & Temmie Chang
+
+Undertale Yellow by Team Undertale Yellow
+
+iZaBeAn - Spritework (https://izabean0.tumblr.com)
+
+viviiyon - Promotional Artwork & Spritework (https://viviiyon.carrd.co)
+
+KALeido - Trailer editing & Spritework (https://x.com/KALeidotoast)
+
+Jester - Spritework (https://www.tumblr.com/jester-program)
+
+Skybox - Promotional Artwork & Spritework (https://www.tumblr.com/blog/unregisteredskybox)
+
+Enny - Spritework (https://www.tumblr.com/ennyxy)
+
+Tramon81 - Spritework (https://x.com/Floof_Dude)
+
+NVKnight - Music (https://www.youtube.com/channel/UCro3RqGOVmBxrR-MdXakaOg)
+
+glotch - Music and Programming Assistance (https://glotch.net)
+
+whisperjas - Music (https://twitter.com/whisperjas)
+
+Ann - Music (https://www.youtube.com/@ann_hf)
+
+ShadeOfSilentFire - Writing (https://archiveofourown.org/users/ShadeofSilentFire/pseuds/ShadeofSilentFire)
+
+Jewel - Border Art (https://www.tumblr.com/thestrongestjewel)
+
+Brooke - Border Art (https://bsky.app/profile/sleepymaus.bsky.social)
+
+Doru1 - Bonus Spritework (https://doru1.carrd.co)
+
+CurlyChopz - Programming Assistance (https://smoggy-lemonade-6ed.notion.site/Rooney-Kilgannon-CurlyChopz-e82fe0b03ea64cd4978cb9e332a30136)
+
+TheShibeRealm - Programming Assistance (https://bsky.app/profile/theshiberealm.bsky.social");
+
+KitGorbunov - Logo design (https://gamejolt.com/@KitGorbunov)
+
+71st Frick - Ruins boards sprites (https://bsky.app/profile/71stfrick.bsky.social)
+
+Dobby233Liu - Deltarune Cutscene System Port
+
+lAZUli - The hidden video (https://x.com/lAZUliLudicrous)
+
+Undertale Decomp - Volume System (https://github.com/danielah05/UndertaleDecomp)
+
+vesuvianrex - Bratty and Catty sprites (https://www.spriters-resource.com/submitter/vesuvianrex/)
+
+Terry Cavanagh - VVVVVV (Easter Egg)
+
+Magnus Pålsson - Potential For anything (Easter Egg)
+
+The UTY Team - For everything (https://gamejolt.com/games/UndertaleYellow/136925)
+
+Shinix (that's me!) - Director, Programmer, and Writer (https://bsky.app/profile/shinixsz.bsky.social)
+
+You! - Thank you for playing :)
